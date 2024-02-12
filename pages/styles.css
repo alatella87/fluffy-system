@@ -1,0 +1,12 @@
+img[alt~="anneke"] {
+	width: 20% !important;
+}
+
+.nx-text-current {
+	display: none !important;
+}
+
+.centered-everything {
+	text-align: center;
+	margin-top: 4rem;
+}
