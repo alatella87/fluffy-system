@@ -2,6 +2,12 @@ img[alt~="anneke"] {
 	width: 20% !important;
 }
 
+@media screen and (max-width: 992px) {
+	img[alt~="anneke"] {
+		width: 40% !important;
+	}
+}
+
 .nx-text-current {
 	display: none !important;
 }
