@@ -1,6 +1,6 @@
 {
-  "zorg": "Healthcare Billing Web App",
-  "journal": "Banking Journal Web App",
-  "mobile": "Mobile Banking App",
-  "system": "Design System"
+  "healthcare": "Healthcare Billing Web App",
+  "journalapp": "Banking Journal Web App",
+  "bankingapp": "Mobile Banking App",
+  "design": "Design System"
 }
